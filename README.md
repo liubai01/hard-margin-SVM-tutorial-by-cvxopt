@@ -38,7 +38,7 @@ cd hard-margin-SVM-tutorial-by-cvxopt/
 jupyter notebook
 ```
 
-Finally, open your browser to connect your Jupyter session. Open `case_study_01.ipynb` directly.
+Finally, open your browser to connect your Jupyter session. Open `SVM_HARD.ipynb` directly.
 
 
 
